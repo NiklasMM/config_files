@@ -1,0 +1,7 @@
+[user]
+	name = Niklas Meinzer
+	email = github@niklas-meinzer.de
+[pull]
+	rebase = true
+[core]
+	editor = vim
